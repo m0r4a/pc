@@ -1,0 +1,7 @@
+﻿
+Key                                               Value                                            
+---                                               -----                                            
+Nombre de la computadora                          ArchLinux                                        
+Nombre de usuario                                 m0r4a                                            
+Red a la que pertenece                            Network                                          
+
